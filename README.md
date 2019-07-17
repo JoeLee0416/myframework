@@ -1,1 +1,1 @@
-Ñ§Ï°ÁËÄ½¿ÎÍøµÄÊÓÆµ£¬×Ô¼º¶¯ÊÖÐ´ÁËÒ»¸ö¼òµ¥°æµÄspringmvc£¬ÊµÏÖÁËÄÚÖÃtomcat¡¢¼òµ¥µÄIOC¡¢ºÍwebÇëÇó´¦Àí¡£
+å­¦ä¹ äº†è§†é¢‘ï¼Œè‡ªå·±åŠ¨æ‰‹å†™äº†ä¸€ä¸ªç®€å•ç‰ˆçš„springmvcï¼Œå®žçŽ°äº†å†…ç½®tomcatã€ç®€å•çš„IOCã€å’Œwebè¯·æ±‚å¤„ç†ã€‚
